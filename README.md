@@ -1,6 +1,15 @@
 ## ml-Proyecto2
-# Análisis
-Objetivo: Realizar un análisis exploratorio de datos (EDA) inicial para al menos cuatro conjuntos de datos, diagnosticar y elegir una problemática específica para abordar (regresión, clasificación, clusterización, predicción). Entregar un repositorio con el dataset elegido, el EDA inicial y la problemática seleccionada.
+# Descripcion
+Realizar un análisis exploratorio de datos (EDA) inicial para al menos cuatro conjuntos de datos, diagnosticar y elegir una problemática específica para abordar (regresión, clasificación, clusterización, predicción). Entregar un repositorio con el dataset elegido, el EDA inicial y la problemática seleccionada.
+
+# Conjuntos de Datos Analizados:
+- Heart: Datos de infartos
+- Netflix titles: Datos de peliculas
+- Retail_sales_datasets: Datos de ventas
+- titanic: Datos de incidente
+
+# Tema seleccionado:
+- Titanic, predicción de supervivencia. Algoritmos de clasificación.
 
 # La estructura del proyecto se compone:
 /datasets
@@ -24,9 +33,10 @@ cd ml-Proyecto2
 - Abrir el archivo EDA_selected_dataset.ipynb
 - Ejecutar el secuencialmente los bloques de código
 
-
 # Autor:
 Arturo Sosa
 
 # Licencia:
 (SLCM) Sientase Libre de Clonar y Mejorar el código.
+
+
